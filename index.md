@@ -1,5 +1,5 @@
 📄 Política de Privacidad – MemoCar
-Última actualización: [colocar fecha]
+Última actualización: 30/01/2026
 MemoCar es una aplicación desarrollada por MemoCar que respeta la privacidad de sus usuarios.
 Esta Política de Privacidad explica qué información se utiliza y cómo se maneja dentro de la aplicación.
 El uso de la aplicación implica la aceptación de esta Política de Privacidad.
