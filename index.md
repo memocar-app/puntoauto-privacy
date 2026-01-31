@@ -1,59 +1,156 @@
-📄 Política de Privacidad – MemoCar
-Última actualización: 30/01/2026
-MemoCar es una aplicación desarrollada por MemoCar que respeta la privacidad de sus usuarios.
-Esta Política de Privacidad explica qué información se utiliza y cómo se maneja dentro de la aplicación.
-El uso de la aplicación implica la aceptación de esta Política de Privacidad.
-1. Información que utiliza la aplicación
-1.1 Información proporcionada por el usuario
-MemoCar permite al usuario:
-Guardar etiquetas.
-Tomar y almacenar fotos relacionadas con el vehículo.
-Guardar una ubicación de estacionamiento.
-Toda esta información:
-Se almacena únicamente en el dispositivo del usuario.
-No se envía ni se almacena en servidores externos.
-1.2 Información del dispositivo y uso
-La aplicación puede utilizar servicios de terceros que recopilan información técnica básica, como:
-Tipo de dispositivo y sistema operativo.
-Identificadores publicitarios de Google.
-Datos de interacción con anuncios.
-MemoCar no recopila información personal identificable directamente.
-2. Uso de permisos
-MemoCar solicita los siguientes permisos:
-Ubicación precisa:
-Se utiliza exclusivamente para guardar la ubicación del vehículo cuando el usuario lo decide.
-La ubicación puede ser compartida solo si el usuario elige hacerlo mediante otra aplicación.
-Cámara:
-Se solicita únicamente la primera vez que el usuario decide tomar una foto.
-No se utiliza en segundo plano ni sin acción explícita del usuario.
-MemoCar no accede al micrófono, contactos, mensajes, llamadas ni archivos del dispositivo.
-3. Publicidad
-MemoCar muestra anuncios mediante Google AdMob, incluyendo:
-Anuncios tipo banner.
-Anuncios recompensados (rewarded).
-Google AdMob puede utilizar identificadores publicitarios del dispositivo para mostrar anuncios, de acuerdo con sus propias políticas de privacidad.
-El usuario puede gestionar sus preferencias de anuncios desde la configuración de su dispositivo Android.
-4. Compras dentro de la aplicación
-MemoCar ofrece compras o funciones premium gestionadas exclusivamente por Google Play Billing.
-La aplicación no accede ni almacena información de pago, como datos de tarjetas de crédito.
-5. Servicios de terceros
-MemoCar puede utilizar servicios proporcionados por Google, tales como:
-Google Play Services
-Google AdMob
-Google Play Billing
-Estos servicios se rigen por sus propias políticas de privacidad.
-6. Almacenamiento y seguridad
-Todos los datos creados por el usuario se almacenan localmente en el dispositivo.
-MemoCar no mantiene bases de datos externas ni servidores propios.
-El usuario es responsable de realizar copias de seguridad del dispositivo si lo desea.
-7. Privacidad de menores
-MemoCar está dirigida a usuarios mayores de edad.
-No está diseñada específicamente para niños ni recopila información de menores.
-8. Cambios en esta política
-Esta Política de Privacidad puede actualizarse ocasionalmente.
-Cualquier cambio será reflejado en esta página indicando la fecha de actualización.
-9. Contacto
-Si tenés dudas o consultas sobre esta Política de Privacidad, podés contactarnos en:
-📧 Correo electrónico: memocar.soporte@gmail.com
-📱 Aplicación: MemoCar
-🌍 País: Argentina
+<!--
+MemoCar - Política de Privacidad
+Archivo: index.md (GitHub Pages)
+Última actualización: 31 de enero de 2026
+-->
+
+<!DOCTYPE html>
+<html lang="es-AR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="robots" content="index,follow" />
+  <title>Política de Privacidad | MemoCar</title>
+  <style>
+    :root{
+      --bg:#0b1220; --card:#0f1a33; --text:#eaf0ff; --muted:#b9c6ff;
+      --accent:#79b8ff; --line:rgba(255,255,255,.12);
+    }
+    body{margin:0;background:linear-gradient(180deg,var(--bg),#070b14);
+      color:var(--text);font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;line-height:1.55}
+    .wrap{max-width:920px;margin:0 auto;padding:28px 18px 48px}
+    header{padding:18px 16px;border:1px solid var(--line);border-radius:16px;background:rgba(15,26,51,.7);backdrop-filter:blur(6px)}
+    h1{margin:0 0 6px;font-size:28px}
+    .sub{margin:0;color:var(--muted)}
+    main{margin-top:18px}
+    section{margin:14px 0;padding:16px;border:1px solid var(--line);border-radius:16px;background:rgba(15,26,51,.55)}
+    h2{margin:0 0 10px;font-size:18px}
+    ul{margin:8px 0 0 18px}
+    a{color:var(--accent)}
+    .pill{display:inline-block;padding:2px 10px;border-radius:999px;border:1px solid var(--line);color:var(--muted);font-size:12px;margin-left:8px}
+    footer{margin-top:18px;color:var(--muted);font-size:13px;text-align:center}
+    code{background:rgba(255,255,255,.08);padding:2px 6px;border-radius:8px}
+    .note{color:var(--muted);margin:10px 0 0}
+  </style>
+</head>
+
+<body>
+  <div class="wrap">
+    <header>
+      <h1>Política de Privacidad — MemoCar <span class="pill">v1.0</span></h1>
+      <p class="sub"><strong>Última actualización:</strong> 31 de enero de 2026</p>
+      <p class="note">
+        Esta Política de Privacidad describe cómo <strong>MemoCar</strong> utiliza y protege la información de los usuarios.
+        Al usar la aplicación, aceptás esta política.
+      </p>
+    </header>
+
+    <main>
+      <section>
+        <h2>1. Qué información utiliza la app</h2>
+        <p><strong>MemoCar</strong> permite al usuario guardar información vinculada a su vehículo, como:</p>
+        <ul>
+          <li><strong>Etiquetas y notas</strong> creadas por el usuario.</li>
+          <li><strong>Fotos</strong> tomadas por el usuario dentro de la app.</li>
+          <li><strong>Ubicación de estacionamiento</strong> (cuando el usuario decide guardarla).</li>
+        </ul>
+        <p class="note">
+          Toda esta información se <strong>almacena únicamente en el dispositivo</strong>. MemoCar <strong>no</strong> utiliza servidores propios para guardar estos datos.
+        </p>
+      </section>
+
+      <section>
+        <h2>2. Permisos del dispositivo</h2>
+        <p>MemoCar puede solicitar permisos para brindar sus funciones:</p>
+        <ul>
+          <li>
+            <strong>Ubicación precisa</strong>:
+            se utiliza <strong>solo</strong> para guardar la ubicación del vehículo cuando el usuario lo solicita.
+            La app puede <strong>compartir la ubicación</strong> únicamente si el usuario elige hacerlo mediante otra aplicación instalada (por ejemplo, mensajería o mapas).
+          </li>
+          <li>
+            <strong>Cámara</strong>:
+            se utiliza <strong>solo</strong> cuando el usuario decide tomar una foto.
+            Antes de solicitar el permiso, MemoCar muestra un mensaje explicando el motivo.
+          </li>
+        </ul>
+        <p class="note">
+          MemoCar <strong>no</strong> solicita permisos de micrófono, contactos, SMS, llamadas ni calendario.
+        </p>
+      </section>
+
+      <section>
+        <h2>3. Publicidad</h2>
+        <p>
+          MemoCar muestra anuncios mediante <strong>Google AdMob</strong>, incluyendo anuncios tipo <strong>banner</strong> y anuncios <strong>recompensados</strong> (rewarded).
+        </p>
+        <p class="note">
+          AdMob puede recopilar información técnica y utilizar identificadores publicitarios del dispositivo (por ejemplo, el <em>Advertising ID</em>) para mostrar anuncios,
+          según la configuración del usuario y las políticas de Google.
+        </p>
+      </section>
+
+      <section>
+        <h2>4. Compras dentro de la app</h2>
+        <p>
+          MemoCar puede ofrecer funciones premium mediante compras o suscripciones gestionadas por <strong>Google Play Billing</strong>.
+        </p>
+        <p class="note">
+          MemoCar <strong>no</strong> procesa ni almacena datos de pago (por ejemplo, tarjetas). La gestión de pagos la realiza Google Play.
+        </p>
+      </section>
+
+      <section>
+        <h2>5. Servicios de terceros</h2>
+        <p>MemoCar puede utilizar servicios de Google, que se rigen por sus propias políticas de privacidad, tales como:</p>
+        <ul>
+          <li>Google Play Services</li>
+          <li>Google AdMob</li>
+          <li>Google Play Billing</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>6. Almacenamiento y seguridad</h2>
+        <ul>
+          <li>Los datos creados por el usuario se guardan <strong>localmente</strong> en el dispositivo.</li>
+          <li>MemoCar no mantiene bases de datos externas ni servidores propios para almacenar datos del usuario.</li>
+          <li>El usuario puede gestionar o eliminar los datos desde su dispositivo (por ejemplo, desinstalando la app o borrando datos de la app).</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>7. Privacidad de menores</h2>
+        <p>
+          MemoCar está dirigida a <strong>usuarios mayores de edad</strong>. No está diseñada específicamente para niños.
+        </p>
+      </section>
+
+      <section>
+        <h2>8. Cambios a esta política</h2>
+        <p>
+          Esta Política de Privacidad puede actualizarse ocasionalmente. Los cambios se publicarán en esta misma página,
+          indicando la fecha de actualización.
+        </p>
+      </section>
+
+      <section>
+        <h2>9. Contacto</h2>
+        <p>Si tenés preguntas sobre esta Política de Privacidad, podés contactarnos:</p>
+        <ul>
+          <li><strong>Email:</strong> <a href="mailto:memocar.soporte@gmail.com">memocar.soporte@gmail.com</a></li>
+          <li><strong>App:</strong> MemoCar</li>
+          <li><strong>País:</strong> Argentina</li>
+        </ul>
+        <p class="note">
+          Nota: MemoCar comparte ubicaciones <strong>solo</strong> cuando el usuario elige explícitamente hacerlo mediante la función de compartir del sistema.
+        </p>
+      </section>
+    </main>
+
+    <footer>
+      © 2026 MemoCar — Política de Privacidad
+    </footer>
+  </div>
+</body>
+</html>
