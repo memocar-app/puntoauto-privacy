@@ -1,5 +1,5 @@
 <!--
-MemoCar - Política de Privacidad
+PuntoAuto - Política de Privacidad
 Archivo: index.md (GitHub Pages)
 Última actualización: 31 de enero de 2026
 -->
@@ -10,7 +10,7 @@ Archivo: index.md (GitHub Pages)
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <meta name="robots" content="index,follow" />
-  <title>Política de Privacidad | MemoCar</title>
+  <title>Política de Privacidad | PuntoAuto</title>
   <style>
     :root{
       --bg:#0b1220; --card:#0f1a33; --text:#eaf0ff; --muted:#b9c6ff;
@@ -37,10 +37,10 @@ Archivo: index.md (GitHub Pages)
 <body>
   <div class="wrap">
     <header>
-      <h1>Política de Privacidad — MemoCar <span class="pill">v1.0</span></h1>
+      <h1>Política de Privacidad — PuntoAuto <span class="pill">v1.0</span></h1>
       <p class="sub"><strong>Última actualización:</strong> 31 de enero de 2026</p>
       <p class="note">
-        Esta Política de Privacidad describe cómo <strong>MemoCar</strong> utiliza y protege la información de los usuarios.
+        Esta Política de Privacidad describe cómo <strong>PuntoAuto</strong> utiliza y protege la información de los usuarios.
         Al usar la aplicación, aceptás esta política.
       </p>
     </header>
@@ -48,20 +48,20 @@ Archivo: index.md (GitHub Pages)
     <main>
       <section>
         <h2>1. Qué información utiliza la app</h2>
-        <p><strong>MemoCar</strong> permite al usuario guardar información vinculada a su vehículo, como:</p>
+        <p><strong>PuntoAuto</strong> permite al usuario guardar información vinculada a su vehículo, como:</p>
         <ul>
           <li><strong>Etiquetas y notas</strong> creadas por el usuario.</li>
           <li><strong>Fotos</strong> tomadas por el usuario dentro de la app.</li>
           <li><strong>Ubicación de estacionamiento</strong> (cuando el usuario decide guardarla).</li>
         </ul>
         <p class="note">
-          Toda esta información se <strong>almacena únicamente en el dispositivo</strong>. MemoCar <strong>no</strong> utiliza servidores propios para guardar estos datos.
+          Toda esta información se <strong>almacena únicamente en el dispositivo</strong>. PuntoAuto <strong>no</strong> utiliza servidores propios para guardar estos datos.
         </p>
       </section>
 
       <section>
         <h2>2. Permisos del dispositivo</h2>
-        <p>MemoCar puede solicitar permisos para brindar sus funciones:</p>
+        <p>PuntoAuto puede solicitar permisos para brindar sus funciones:</p>
         <ul>
           <li>
             <strong>Ubicación precisa</strong>:
@@ -71,18 +71,18 @@ Archivo: index.md (GitHub Pages)
           <li>
             <strong>Cámara</strong>:
             se utiliza <strong>solo</strong> cuando el usuario decide tomar una foto.
-            Antes de solicitar el permiso, MemoCar muestra un mensaje explicando el motivo.
+            Antes de solicitar el permiso, PuntoAuto muestra un mensaje explicando el motivo.
           </li>
         </ul>
         <p class="note">
-          MemoCar <strong>no</strong> solicita permisos de micrófono, contactos, SMS, llamadas ni calendario.
+          PuntoAuto <strong>no</strong> solicita permisos de micrófono, contactos, SMS, llamadas ni calendario.
         </p>
       </section>
 
       <section>
         <h2>3. Publicidad</h2>
         <p>
-          MemoCar muestra anuncios mediante <strong>Google AdMob</strong>, incluyendo anuncios tipo <strong>banner</strong> y anuncios <strong>recompensados</strong> (rewarded).
+          PuntoAuto muestra anuncios mediante <strong>Google AdMob</strong>, incluyendo anuncios tipo <strong>banner</strong> y anuncios <strong>recompensados</strong> (rewarded).
         </p>
         <p class="note">
           AdMob puede recopilar información técnica y utilizar identificadores publicitarios del dispositivo (por ejemplo, el <em>Advertising ID</em>) para mostrar anuncios,
@@ -93,16 +93,16 @@ Archivo: index.md (GitHub Pages)
       <section>
         <h2>4. Compras dentro de la app</h2>
         <p>
-          MemoCar puede ofrecer funciones premium mediante compras o suscripciones gestionadas por <strong>Google Play Billing</strong>.
+          PuntoAuto puede ofrecer funciones premium mediante compras o suscripciones gestionadas por <strong>Google Play Billing</strong>.
         </p>
         <p class="note">
-          MemoCar <strong>no</strong> procesa ni almacena datos de pago (por ejemplo, tarjetas). La gestión de pagos la realiza Google Play.
+          PuntoAuto <strong>no</strong> procesa ni almacena datos de pago (por ejemplo, tarjetas). La gestión de pagos la realiza Google Play.
         </p>
       </section>
 
       <section>
         <h2>5. Servicios de terceros</h2>
-        <p>MemoCar puede utilizar servicios de Google, que se rigen por sus propias políticas de privacidad, tales como:</p>
+        <p>PuntoAuto puede utilizar servicios de Google, que se rigen por sus propias políticas de privacidad, tales como:</p>
         <ul>
           <li>Google Play Services</li>
           <li>Google AdMob</li>
@@ -114,7 +114,7 @@ Archivo: index.md (GitHub Pages)
         <h2>6. Almacenamiento y seguridad</h2>
         <ul>
           <li>Los datos creados por el usuario se guardan <strong>localmente</strong> en el dispositivo.</li>
-          <li>MemoCar no mantiene bases de datos externas ni servidores propios para almacenar datos del usuario.</li>
+          <li>PuntoAuto no mantiene bases de datos externas ni servidores propios para almacenar datos del usuario.</li>
           <li>El usuario puede gestionar o eliminar los datos desde su dispositivo (por ejemplo, desinstalando la app o borrando datos de la app).</li>
         </ul>
       </section>
@@ -122,7 +122,7 @@ Archivo: index.md (GitHub Pages)
       <section>
         <h2>7. Privacidad de menores</h2>
         <p>
-          MemoCar está dirigida a <strong>usuarios mayores de edad</strong>. No está diseñada específicamente para niños.
+          PuntoAuto está dirigida a <strong>usuarios mayores de edad</strong>. No está diseñada específicamente para niños.
         </p>
       </section>
 
@@ -138,18 +138,18 @@ Archivo: index.md (GitHub Pages)
         <h2>9. Contacto</h2>
         <p>Si tenés preguntas sobre esta Política de Privacidad, podés contactarnos:</p>
         <ul>
-          <li><strong>Email:</strong> <a href="mailto:memocar.soporte@gmail.com">memocar.soporte@gmail.com</a></li>
-          <li><strong>App:</strong> MemoCar</li>
+          <li><strong>Email:</strong> <a href="mailto:PuntoAuto.soporte@gmail.com">PuntoAuto.soporte@gmail.com</a></li>
+          <li><strong>App:</strong> PuntoAuto</li>
           <li><strong>País:</strong> Argentina</li>
         </ul>
         <p class="note">
-          Nota: MemoCar comparte ubicaciones <strong>solo</strong> cuando el usuario elige explícitamente hacerlo mediante la función de compartir del sistema.
+          Nota: PuntoAuto comparte ubicaciones <strong>solo</strong> cuando el usuario elige explícitamente hacerlo mediante la función de compartir del sistema.
         </p>
       </section>
     </main>
 
     <footer>
-      © 2026 MemoCar — Política de Privacidad
+      © 2026 PuntoAuto — Política de Privacidad
     </footer>
   </div>
 </body>
